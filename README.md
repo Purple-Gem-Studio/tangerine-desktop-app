@@ -1,2 +1,3 @@
-# tangerine-desktop-app
+# `tangerine-desktop-app`
+
 🍊 The Tangerine desktop app 🍊
